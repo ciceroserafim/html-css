@@ -33,4 +33,9 @@ button {
     background-color: rgb(66, 121, 210); 
     color: white;
 }
+footer{
+    margin-top: 2px;
+    border-top: solid red;
+}
+
 
