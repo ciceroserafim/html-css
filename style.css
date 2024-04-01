@@ -1,5 +1,5 @@
 header{
-    color: rgb(40, 69, 236);
+   background-color: rgb(40, 69, 236);
 }
 
 h1{ 
@@ -12,4 +12,14 @@ h2{
 
 nav{
     font-weight: bold;
+}
+
+#container{
+    border: 2px solid;
+    margin: 20px;
+    padding: auto;
+}
+
+section{
+    
 }
