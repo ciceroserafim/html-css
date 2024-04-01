@@ -29,3 +29,8 @@ form{
     padding: 10px;
 }
 
+button {
+    background-color: rgb(66, 121, 210); 
+    color: white;
+}
+
